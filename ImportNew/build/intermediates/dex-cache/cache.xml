@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/wuyongbo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/wuyongbo/Android/ASWorkspace/AndroidImportNew/ImportNew/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_83298f93029a0edff9cd0972f39e219219922b31.jar" />
+    </item>
+    <item
+        jar="/home/wuyongbo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/wuyongbo/Android/ASWorkspace/AndroidImportNew/ImportNew/app/build/intermediates/pre-dexed/debug/gson-2.3.1_c9630fd169215d352dd486dd0c559d2ab00a40a6.jar" />
+    </item>
+    <item
+        jar="/home/wuyongbo/Android/ASWorkspace/AndroidImportNew/ImportNew/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/home/wuyongbo/Android/ASWorkspace/AndroidImportNew/ImportNew/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.0_909f73fc4fcace53f618ac7e33c0fe983326d792.jar" />
+    </item>
+    <item
+        jar="/home/wuyongbo/Android/ASWorkspace/AndroidImportNew/ImportNew/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/wuyongbo/Android/ASWorkspace/AndroidImportNew/ImportNew/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_883d0c166eeceebb696c2608ebeaa29ef96ba2fe.jar" />
+    </item>
+
+</items>
